@@ -19,6 +19,6 @@ After the template is installed and adapted, you can replace this `README.md` fi
 1. Clone this repository.
 2. Rename its directory to your project's name.
 3. Remove the .git directory and then run `git init`.
-4. Modify `package.json`, changing at least the `name`, `description` and `repository` properties.
+4. Modify `package.json`, changing at least the `name`, `author`, `description` and `repository` properties.
 5. Run `npm install`.
 6. You are ready to go.
